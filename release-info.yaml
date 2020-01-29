@@ -1,4 +1,4 @@
-project: argus-authz/pkg.argus/release-1.7.3
+project: argus-authz/pkg.argus/nightly
 repo: argus-rpm-nightly
 platforms:
   - centos7
