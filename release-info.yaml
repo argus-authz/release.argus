@@ -1,4 +1,4 @@
-project: argus-authz/pkg.argus/nightly
+project: argus-authz/pkg.argus/v1.7.3
 repo: argus
 platforms:
   - centos7
