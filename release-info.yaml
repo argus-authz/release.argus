@@ -1,5 +1,4 @@
-project: pkg.argus/nightly
+project: pkg.argus/v1.7.4
 repo: argus
 platforms:
   - centos7
-  - centos6
