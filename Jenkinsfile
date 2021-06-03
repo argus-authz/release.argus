@@ -73,6 +73,10 @@ pipeline {
     label 'docker'
   }
 
+  triggers {
+    cron('@daily')
+  }
+
   options {
     timeout(time: 10, unit: 'MINUTES')
   }
